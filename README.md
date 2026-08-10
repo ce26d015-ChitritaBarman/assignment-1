@@ -1,9 +1,9 @@
-# Assignment 1 – CV 5100: Modelling, Uncertainty, and Data for Engineers (MUDE)
+# Assignment 1 – CV 5101: Modelling, Uncertainty, and Data for Engineers (MUDE)
 
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Monday, Aug 16, 2026`*
+*Due: `Sunday, Aug 16, 2026`*
 
 📌 Overview
 This repository contains instructions and code implementations for Assignment 1 of CV 5101 – Modelling, Uncertainty, and Data for Engineers. The assignment focuses on numerical modelling using finite difference methods for derivatives, convergence analysis, and root finding via the Newton–Raphson method.
